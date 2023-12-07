@@ -21,8 +21,10 @@ For private audits or security consulting, please reach out on:
 
 
 ## Bug bounties
-| Bounty | Platform | Date | Report |
-| - | - | :-: | :-: |
-| Yearn Finance: Improper strategy parameters adjustment due to incorrect loss accounting | Immunefi | 04-04-2023 | [📄](/bounties/yearn_04-04-2023.md) 
-| Safe: Tracking nonce in each Safe individually can lead to transactions being replayed | Immunefi | 18-11-2023 | [📄](/bounties/safe_18-11-2023.md) 
+| Bounty | Platform | Severity | Date | Report |
+| - | - | :-: | :-: | :-: |
+| Yearn Finance: Improper strategy parameters adjustment due to incorrect loss accounting | Immunefi | Low | 04-04-2023 | [📄](/bounties/yearn_04-04-2023.md) 
+| IPOR: DoS in LiquidityMining's `updateIndicators()` and `calculateAccruedRewards()` due to missing loop variable increment | Immunefi | Low | 15-10-2023 | [📄](/bounties/ipor_15-10-2023.md) 
+| Safe: Tracking nonce in each Safe individually can lead to transactions being replayed | Immunefi | Low | 18-11-2023 | [📄](/bounties/safe_18-11-2023.md) 
+| IPOR: AmmPoolsServiceEth is vulnerable to inflation attacks | Immunefi | High | 30-11-2023 | [📄](/bounties/ipor_30-11-2023.md) 
 
