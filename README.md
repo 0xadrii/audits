@@ -16,7 +16,7 @@ For private audits or security consulting, please reach out on:
 | - | - | - | - | - |
 | Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](/competitive_audits/ubiquity_02-01-2024.md) 
 | Telcoin | Governance | 12-01-2024 | [Top 4](https://audits.sherlock.xyz/contests/156) | [📄](/competitive_audits/telcoin_12-01-2024.md) 
-| Arcadia | Lending | 29-01-2024 | [Top 3](https://audits.sherlock.xyz/contests/137)🥉 | [📄](/competitive_audits/arcadia_29-01-2024.md) 
+| Arcadia | Lending | 29-01-2024 | [🥉](https://audits.sherlock.xyz/contests/137) | [📄](/competitive_audits/arcadia_29-01-2024.md) 
 
 
 ## Bug bounties
