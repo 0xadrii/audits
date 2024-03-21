@@ -12,12 +12,11 @@ For private audits or security consulting, please reach out on:
 - Telegram - [@its0xadrii](https://t.me/its0xadrii)
 
 ## Competitive audits
-| Contest | Type | Date | Report |
-| - | - | :-: | :-: |
-| Venus Protocol Isolated Pools | Lending | 08-05-2023 | [📄](/competitive_audits/venus_isolated_pools_15-05-2023.md) 
-| Maia DAO Ecosystem | Cross-chain ecosystem | 30-05-2023 | [📄](/competitive_audits/maia_dao_ecosystem_05-07-2023.md) 
-| Chainlink Cross-Chain Services: CCIP and ARM Network | Cross-chain ecosystem | 05-07-2023 | [📄](/competitive_audits/maia_dao_ulysses_22-09-2023.md)
-| Maia DAO - Ulysses | Virtualized liquidity management | 22-09-2023 | [📄](/competitive_audits/maia_dao_ulysses_22-09-2023.md) 
+| Contest | Type | Date | Leaderboard | Report | 
+| - | - | - | - | - |
+| Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](/competitive_audits/ubiquity_02-01-2024.md) 
+| Telcoin | Governance | 12-01-2024 | [Top 4](https://audits.sherlock.xyz/contests/156) | [📄](/competitive_audits/telcoin_12-01-2024.md) 
+| Arcadia | Lending | 29-01-2024 | [Top 3](https://audits.sherlock.xyz/contests/137)🥉 | [📄](/competitive_audits/arcadia_29-01-2024.md) 
 
 
 ## Bug bounties
