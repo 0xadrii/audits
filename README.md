@@ -1,10 +1,14 @@
 # Audit Portfolio - 0xadrii
 
 ## About 0xadrii
-EVM security researcher and Lead Senior Watson at [Sherlock](https://audits.sherlock.xyz/watson/0xadrii). 
-I have taken part in more than 50 audits, having audited all kinds of DeFi protocols (lending, stablecoins, omnichain, account abstraction...) and found vulnerabilities in live
-protocols, securing $3B+ in TVL.
-Additionally, I contributed to [ERC6551](https://eips.ethereum.org/EIPS/eip-6551), a Non-fungible Token Bound Account standard.
+I’m an EVM security researcher, Lead Senior Watson at [Sherlock](https://audits.sherlock.xyz/watson/0xadrii) and Zenith auditor at [Code4rena](https://code4rena.com/zenith), with more than 3 years of experience working in the DeFi ecosystem as both developer and security researcher.
+I've conducted audits for a wide range of DeFi projects, including lending protocols, stablecoins, omnichain systems, and account abstraction, identifying vulnerabilities in top live protocols like Safe, Yearn, and Renzo.
+
+
+I began my blockchain journey as a developer for the NFT lending protocol Unlockd, where I led contract development and security efforts. This experience deepened my passion for smart contract security, and I quickly transitioned to focus on vulnerability research full time.
+
+
+With a strong focus on lending and cross-chain protocols, as well as assembly-heavy implementations, I have contributed to important standards like [ERC6551](https://eips.ethereum.org/EIPS/eip-6551), a Non-fungible Token Bound Account standard, following an audit of its implementation. My deep low-level expertise includes leading security reviews for projects developed entirely in assembly.
 
 ## Request an audit
 For private audits or security consulting, please reach out on:
@@ -17,17 +21,21 @@ For private audits or security consulting, please reach out on:
 | Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/138/report)
 | Telcoin | Governance | 12-01-2024 | [🥉](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/156/report)
 | Arcadia | Lending | 29-01-2024 | [🥉](https://audits.sherlock.xyz/contests/137) | [📄](https://audits.sherlock.xyz/contests/137/report)
-| Tapioca | Omnichain | 23-02-2024 | [Top 5](https://audits.sherlock.xyz/contests/170) | [📄](https://audits.sherlock.xyz/contests/170/report)
+| Opal | Omnipools | 12-02-2024 | [Top 5](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) | [📄](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard)
+| Tapioca | Omnichain/Lending | 23-02-2024 | [Top 5](https://audits.sherlock.xyz/contests/170) | [📄](https://audits.sherlock.xyz/contests/170/report)
 | Teller Finance | Lending | 23-04-2024 | [🥈](https://audits.sherlock.xyz/contests/295) | [📄](https://audits.sherlock.xyz/contests/295/report)
+| Telcoin Wallet | Wallet | 04-06-2024 | [🥇](https://audits.sherlock.xyz/contests/299) | Private
+| CCIP V1.5 | Cross-Chain | 02-07-2024 | [Top 5 (anon)](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | Private
+| Midas | RWA | 19-08-2024 | [Top 5](https://audits.sherlock.xyz/contests/495) | [📄](https://audits.sherlock.xyz/contests/495/report)
 
 ## Private audits
 | Contest | Type | Date | Result |  Report | 
 | - | - | - | - | - |
 | Asterix | NFTs | 01-04-2024 | 2 LOW / 1 GAS / 3 INFORMATIONAL |  [📄](/private_audits/pdf/asterix_audit_report-enigma_dark.pdf) 
 | ERC6551 | Token Bound Account | 01-04-2024 | 2 LOW / 1 INFORMATIONAL |  [📄](/private_audits/pdf/solady_ERC6551_audit_report-enigma_dark.pdf) 
-| Tapioca Magnetar | Omnichain | 12-04-2024 | 7 HIGH / 3 MEDIUM / 4 LOW / 5 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_magnetar_audit_report.pdf) 
-| Ubiquity Dollar | Omnichain | 18-04-2024 | 2 MEDIUM / 1 LOW / 6 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
-| Tapioca Bar | Omnichain | 15-05-2024 | 4 HIGH / 4 MEDIUM / 3 LOW / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
+| Tapioca Magnetar | Omnichain/Lending | 12-04-2024 | 7 HIGH / 3 MEDIUM / 4 LOW / 5 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_magnetar_audit_report.pdf) 
+| Ubiquity Dollar | Stablecoin | 18-04-2024 | 2 MEDIUM / 1 LOW / 6 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
+| Tapioca Bar | Omnichain/Lending | 15-05-2024 | 4 HIGH / 4 MEDIUM / 3 LOW / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
 
 ## Bug bounties
 | Bounty | Platform | Severity | Date | Report |
@@ -37,3 +45,7 @@ For private audits or security consulting, please reach out on:
 | Safe: Tracking nonce in each Safe individually can lead to transactions being replayed | Immunefi | Low | 18-11-2023 | [📄](/bounties/safe_18-11-2023.md) 
 | IPOR: AmmPoolsServiceEth is vulnerable to inflation attacks | Immunefi | High | 30-11-2023 | [📄](/bounties/ipor_30-11-2023.md) 
 | Renzo: Not considering fees when computing Operator Delegator's ETH balance breaks ezETH's exchange rate and creates accounting issues | Immunefi | High | 12-04-2024 | [📄](/bounties/renzo_12-04-2024.md) 
+
+## Public Content
+
+- [Assembly vulnerabilities demystified: a comprehensive analysis of low-level bugs](https://mirror.xyz/0x5276d4c0E16C7e2c714FC30AE69fF45Cb07cE4f4/-tAQH-oQkMpOV5hFeEjq-g7EpldQ1lVXfZYpr3xuzUE)
