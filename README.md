@@ -44,7 +44,7 @@ For private audits or security consulting, please reach out on:
 | IPOR: DoS in LiquidityMining's `updateIndicators()` and `calculateAccruedRewards()` due to missing loop variable increment | Immunefi | Low | 15-10-2023 | [📄](/bounties/ipor_15-10-2023.md) 
 | Safe: Tracking nonce in each Safe individually can lead to transactions being replayed | Immunefi | Low | 18-11-2023 | [📄](/bounties/safe_18-11-2023.md) 
 | IPOR: AmmPoolsServiceEth is vulnerable to inflation attacks | Immunefi | High | 30-11-2023 | [📄](/bounties/ipor_30-11-2023.md) 
-| Renzo: Not considering fees when computing Operator Delegator's ETH balance breaks ezETH's exchange rate and creates accounting issues | Immunefi | High | 12-04-2024 | [📄](/bounties/renzo_12-04-2024.md) 
+| Renzo | Immunefi | High | 12-04-2024 | Private
 
 ## Public Content
 
