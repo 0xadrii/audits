@@ -36,6 +36,8 @@ For private audits or security consulting, please reach out on:
 | Tapioca Magnetar | Omnichain/Lending | 12-04-2024 | 7 HIGH / 3 MEDIUM / 4 LOW / 5 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_magnetar_audit_report.pdf) 
 | Ubiquity Dollar | Stablecoin | 18-04-2024 | 2 MEDIUM / 1 LOW / 6 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
 | Tapioca Bar | Omnichain/Lending | 15-05-2024 | 4 HIGH / 4 MEDIUM / 3 LOW / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
+| Arcadia | Lending | 27-06-2024 | 3 LOW  |  [📄](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) 
+
 
 ## Bug bounties
 | Bounty | Platform | Severity | Date | Report |
