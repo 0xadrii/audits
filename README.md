@@ -21,12 +21,13 @@ For private audits or security consulting, please reach out on:
 | Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/138/report)
 | Telcoin | Governance | 12-01-2024 | [🥉](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/156/report)
 | Arcadia | Lending | 29-01-2024 | [🥉](https://audits.sherlock.xyz/contests/137) | [📄](https://audits.sherlock.xyz/contests/137/report)
-| Opal | Omnipools | 12-02-2024 | [Top 5](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) | [📄](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard)
+| Opal | Omnipools | 12-02-2024 | [Top 5]([https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard)) | [📄](https://cantina.xyz/portfolio/0c9f46ff-e5b4-412c-b928-ecb135f44007)
 | Tapioca | Omnichain/Lending | 23-02-2024 | [Top 5](https://audits.sherlock.xyz/contests/170) | [📄](https://audits.sherlock.xyz/contests/170/report)
 | Teller Finance | Lending | 23-04-2024 | [🥈](https://audits.sherlock.xyz/contests/295) | [📄](https://audits.sherlock.xyz/contests/295/report)
 | Telcoin Wallet | Wallet | 04-06-2024 | [🥇](https://audits.sherlock.xyz/contests/299) | Private
 | CCIP V1.5 | Cross-Chain | 02-07-2024 | [Top 5 (anon)](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | Private
 | Midas | RWA | 19-08-2024 | [Top 5](https://audits.sherlock.xyz/contests/495) | [📄](https://audits.sherlock.xyz/contests/495/report)
+| Redstone | Oracles | 24-09-2024 | [🥉 (anon)](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard) | Private
 
 ## Private audits
 | Contest | Type | Date | Result |  Report | 
