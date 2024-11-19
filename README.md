@@ -38,6 +38,7 @@ For private audits or security consulting, please reach out on:
 | Ubiquity Dollar | Stablecoin | 18-04-2024 | 2 MEDIUM / 1 LOW / 6 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
 | Tapioca Bar | Omnichain/Lending | 15-05-2024 | 4 HIGH / 4 MEDIUM / 3 LOW / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
 | Arcadia | Lending | 27-06-2024 | 3 LOW  |  [📄](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) 
+| Amplified | Yield Management | 18-09-2024 | 2 CRITICAL / 3 HIGH / 5 MEDIUM / 6 LOW  |  [📄](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-amplified-zenith.pdf) 
 
 
 ## Bug bounties
